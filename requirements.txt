@@ -1,3 +1,4 @@
 gtts
 gradio
 transformers
+Pillow
