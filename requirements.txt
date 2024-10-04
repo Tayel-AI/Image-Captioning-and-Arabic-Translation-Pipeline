@@ -2,3 +2,4 @@ gtts
 gradio
 transformers
 Pillow
+torch
