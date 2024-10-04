@@ -3,3 +3,4 @@ gradio
 transformers
 Pillow
 torch
+sentencepiece
